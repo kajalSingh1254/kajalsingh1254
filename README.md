@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**kajalSingh1254/kajalsingh1254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Analyst | Python | SQL | Excel | Power BI  
+📊 Passionate about turning data into insights  
+📚 Currently learning Data Analytics & Business Intelligence
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- Working on data visualization projects  
+- Learning new analytical tools  
+- Love exploring data and solving problems  
+
+---
+
+### 📫 Connect with Me
+🌐 [LinkedIn](https://linkedin.com/in/kajal-singh)
+
+---
+
+⭐️ _Thanks for visiting my profile!_
