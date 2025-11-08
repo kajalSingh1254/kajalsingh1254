@@ -14,7 +14,7 @@
 ---
 
 ### 📫 Connect with Me
-🌐 [LinkedIn](https://linkedin.com/in/kajal-singh)
+🌐 (https://www.linkedin.com/in/kajal-singh-b7b17a2a1/)
 
 ---
 
